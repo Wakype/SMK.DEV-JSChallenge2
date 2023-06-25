@@ -39,7 +39,7 @@ function getHargaTerbesarKedua(harga) {
 }
 
 // ======= Contoh =======  //
-const listHarga = [70000, 55000, 120000, 100000, 20000, 5000];
+const listHarga = [55000, 120000, 100000];
 const hargaTerbesarKedua = getHargaTerbesarKedua(listHarga);
 
 console.log(
